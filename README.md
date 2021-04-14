@@ -3,9 +3,6 @@ This repository consist of all the assignments which should be uploaded to Web-D
 
 ### Tools that will be need to View and Modify this project (For Windows, MacOS and Linux)
 
-1. Atom Text Editor. [( Click here to go to the Download Page )](https://atom.io/)
-2. XAMPP - It is an easy to install Apache distribution containing MariaDB, PHP, and Perl. [( Click here to go to te Download Page )](https://www.apachefriends.org/download.html)
-
 
 
 ### PHP Folder Structure
@@ -55,7 +52,7 @@ This repository consist of all the assignments which should be uploaded to Web-D
 5. Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
 
 *******************************************************************************************************************************************
-CONTACT: amitdeka13@gmail.com
+CONTACT: snivedita1811@gmail.com
 
 
 *******************************************************************************************************************************************
